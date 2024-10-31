@@ -9,7 +9,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: rgb(19, 30, 41);
+    background-color: #0e1135;
     border-radius: 8px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Deeper shadow for depth */
 }
@@ -25,8 +25,8 @@ h1.Login-word {
     display: inline-block;
     padding: 10px 20px;
     margin: 20px 0;
-    color: white;
-    background-color: #7289da; /* Discord blue */
+    color: rgb(27, 14, 14);
+    background-color: #06f7ff; /* Discord blue */
     border: none;
     border-radius: 5px;
     text-decoration: none;
@@ -44,7 +44,7 @@ h1.Login-word {
     padding: 20px; /* Add some padding */
     border-radius: 10px; /* Round the corners of the list */
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Enhanced shadow for depth */
-    background-color: #1e2235; /* Slightly lighter background */
+    background-color: #0e1135; /* Slightly lighter background */
     color: white; /* Change text color to white for contrast */
     display: flex;
     flex-direction: column;
